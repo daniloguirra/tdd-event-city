@@ -3,7 +3,7 @@ package com.devsuperior.bds02.dto;
 import java.io.Serializable;
 
 import com.devsuperior.bds02.entities.City;
-
+//teste
 public class CityDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
